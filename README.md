@@ -1,1 +1,1 @@
-I created this chess bot as a small hobby project at home, out of interest and to familiarise myself with C#. It was inpired by and based on a (challenge)[https://github.com/SebLague/Chess-Challenge] created by Sebastian Lague.
+I created this chess bot as a small hobby project at home, out of interest and to familiarise myself with C#. It was inpired by and based on a [challenge](https://github.com/SebLague/Chess-Challenge) created by Sebastian Lague.
