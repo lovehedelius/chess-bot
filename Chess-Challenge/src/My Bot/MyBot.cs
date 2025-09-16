@@ -85,12 +85,6 @@ public class MyBot : IChessBot
         return bestScore;
     }
 
-    private static Move[] OrderMoves(Move[] moves)
-    {
-        
-        return moves;
-    }
-
     private static int Evaluate(Board board)
     {
         ulong whitePawns = board.GetPieceBitboard(PieceType.Pawn, true);
